@@ -6,7 +6,7 @@ NOTE: this playbook has been created for testing purpose and for later reuse in 
 
 
 
-CWOAUTOSCALE Ansible playbook consist of 3 parts:
+CWOAUTOSCALE Ansible playbook consists of 3 parts:
 
 1. deploy-test_autoscaling_env.yml
       -create 1 x VPC with 1 x VPC subnets in 1 x AZ in one AWS region (we are using for testing eu-west1 on separate AWS TEST account),
