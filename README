@@ -50,7 +50,7 @@ Notification (alerts) about all activity in ASG: scaling up/ scaling down and in
 
 
 
-ANSIBLE INSTALLATION (already installed end configured on the AWS test account)
+ANSIBLE INSTALLATION 
 1. Ansible and Boto installation Ubuntu 14.04 LTS
   $ sudo apt-get install software-properties-common
   $ sudo apt-add-repository ppa:ansible/ansible
